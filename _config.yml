@@ -51,7 +51,7 @@ url: "https://hunter-college-ossd-spr-2020.github.io/MichelleLucero-weekly"
 # where "your-username" is your GitHub username. It must begin with the "/" -
 # do not remove it.
 
-baseurl: "/weekly"
+baseurl: "/MichelleLucero-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
