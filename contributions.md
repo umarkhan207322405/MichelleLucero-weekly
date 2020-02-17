@@ -23,6 +23,10 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|     |     |     |      |
-|     |     |     |      |
+|  3   | [link to contribution](https://www.openstreetmap.org/changeset/81084460)    | Contribution Openstreetmap |  Added subway entrances on the N line|
+|  3  | [link to contribution](https://www.openstreetmap.org/changeset/81084407)  | Contribution Openstreetmap | Added BJ's parking lot  |
+|  3   |  [link to contribution](https://www.openstreetmap.org/changeset/81084384)   | Contribution Openstreetmap | Added Olive Garden |
+|  3   |  [link to contribution](https://www.openstreetmap.org/changeset/81084299)| Contribution Openstreetmap | Added Clemente's Fine Foods & Catering|
+| 3  | [link to contribution](https://www.openstreetmap.org/changeset/81083882)| Contribution Openstreetmap | Added Vet hospital|
+| 3 | [link to contribution](https://www.openstreetmap.org/changeset/81084032#map=19/40.59517/-73.98420) [link to contribution]
+(https://www.openstreetmap.org/changeset/8108404)7|  Contribution Openstreetmap | Added soccer field and playground desciption to Scarangella Park|
