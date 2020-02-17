@@ -28,6 +28,6 @@ following the same syntax.
 | 3 | [link to contribution](https://www.openstreetmap.org/changeset/81084384)   | Openstreetmap Contribution | Added an Olive Garden |
 | 3 | [link to contribution](https://www.openstreetmap.org/changeset/81084299)| Openstreetmap Contribution | Added Clemente's Fine Foods & Catering|
 | 3 | [link to contribution](https://www.openstreetmap.org/changeset/81083882)| Openstreetmap Contribution | Added a Vet hospital|
-| 3 | [link to contribution](https://www.openstreetmap.org/changeset/81084032#map=19/40.59517/-73.98420)|  Contribution Openstreetmap | Added soccer field to Scarangella Park|
+| 3 | [link to contribution](https://www.openstreetmap.org/changeset/81084032#map=19/40.59517/-73.98420)|  Openstreetmap Contribution | Added soccer field to Scarangella Park|
 | 3 | [link to contribution](https://www.openstreetmap.org/changeset/81084047) | Openstreetmap Contribution | Added playground description to Scarangella Park|
 | 3 | [link to contribution](https://www.openstreetmap.org/changeset/81084450) | Openstreetmap Contribution | Deleted a nonexistent bus stop |
