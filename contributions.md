@@ -33,6 +33,6 @@ following the same syntax.
 | 3 | [link to contribution](https://www.openstreetmap.org/changeset/81084450) | OSM Edit | Deleted a nonexistent bus stop |
 | 4 |[link to contribution](https://www.openstreetmap.org/changeset/81353182)| OSM Edit | Specified building as a supermarket called Jmart|
 | 4 |[link to contribution](https://www.openstreetmap.org/changeset/81353659#map=19/40.59656/-73.98452)| OSM Edit | Outlined a few buildings|
-| 4 |[link to contribution](https://www.openstreetmap.org/changeset/81353724)| OSM Edit | Empty lot became a gas station |
+| 4 |[link to contribution](https://www.openstreetmap.org/changeset/81353724)| OSM Edit | Updated an empty lot that became a gas station |
 | 4 |[link to contribution](https://www.openstreetmap.org/changeset/81353791)| OSM Edit | Specified a building as a pizza restaurant called Knapp Pizza II|
 | 4 |[link to contribution](https://www.openstreetmap.org/changeset/81353518)| OSM Edit | Added a Supermarket called Sea Land Seafood & Meat Market INC |
