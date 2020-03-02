@@ -36,7 +36,7 @@ following the same syntax.
 | 4 |[Added Gas Station](https://www.openstreetmap.org/changeset/81353724)| OSM Edit | Updated an empty lot that became a gas station |
 | 4 |[Added Restaurant](https://www.openstreetmap.org/changeset/81353791)| OSM Edit | Specified a building as a pizza restaurant called Knapp Pizza II|
 | 4 |[Added Supermarket](https://www.openstreetmap.org/changeset/81353518)| OSM Edit | Added a Supermarket called Sea Land Seafood & Meat Market INC |
-| 4 | [Deleted Filler Words and Fixed Commas](https://github.com/hunter-college-ossd-spr-2020/MarceloDamian-weekly/pull/3)    | Blog Edit  | Suggested reprashing to be more concise and adjusted their use of commas |
+| 4 | [Recommened Conciseness](https://github.com/hunter-college-ossd-spr-2020/MarceloDamian-weekly/pull/3)    | Blog Edit  | Suggested reprashing to be more concise and adjusted their use of commas |
 | 5 | []()    | OSM Edit  |  |
 | 5 | []()    | OSM Edit  |  |
 | 5 | []()    | OSM Edit  |  |
