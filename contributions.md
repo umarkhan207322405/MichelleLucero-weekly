@@ -42,4 +42,4 @@ following the same syntax.
 | 5 | [Added a Wood Shop](https://www.openstreetmap.org/changeset/81657677#map=19/40.59642/-73.98054)    | OSM Edit  | Labeled a building as Cedar Wood Working |
 | 5 | [Added Dunkin Donuts](https://www.openstreetmap.org/changeset/81657677#map=19/40.59642/-73.98054)    | OSM Edit  | Labeled a building at Dunkin Donuts |
 | 5 | [Added a Supermarket](https://www.openstreetmap.org/changeset/81657742#map=19/40.59687/-73.97539)    | OSM Edit  | Labled a building as C-town |
-| 5 | [Suggested Reprasing](https://github.com/hunter-college-ossd-spr-2020/deniceysv-weekly/pull/1)  | Blog Edit  | Suggested rephraring for clarity |
+| 5 | [Suggested Reprasing](https://github.com/hunter-college-ossd-spr-2020/deniceysv-weekly/pull/1)  | Blog Edit  | Suggested rephrasing for clarity |
