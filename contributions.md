@@ -43,3 +43,8 @@ following the same syntax.
 | 5 | [Added Dunkin Donuts](https://www.openstreetmap.org/changeset/81657677#map=19/40.59642/-73.98054)    | OSM Edit  | Labeled a building at Dunkin Donuts |
 | 5 | [Added a Supermarket](https://www.openstreetmap.org/changeset/81657742#map=19/40.59687/-73.97539)    | OSM Edit  | Labled a building as C-town |
 | 5 | [Suggested Reprasing](https://github.com/hunter-college-ossd-spr-2020/deniceysv-weekly/pull/1)  | Blog Edit  | Suggested rephrasing for clarity |
+| 6 | [Added a Convenience Store](https://www.openstreetmap.org/changeset/81914526#map=19/40.59044/-73.97288) | OSM Edit | Fixed the area borders and added The Rock House|
+| 6 | [Added a Physical Therapy Practice](https://www.openstreetmap.org/changeset/81914545#map=19/40.59044/-73.97313) | OSM Edit | Added a physical therapy practice|
+| 6 | [Added a Pharmacy](https://www.openstreetmap.org/changeset/81914641#map=19/40.59041/-73.97335) | OSM Edit | Added Smart Choice Pharmacy |
+| 6 | [Added a Bagel Shop](https://www.openstreetmap.org/changeset/81914653#map=19/40.59040/-73.97342) | OSM Edit | Added bagel & beyond |
+| 6 | [Added a Chinese Restaurant](https://www.openstreetmap.org/user/pomoya/history#map=15/40.6002/-73.9871) | OSM Edit | Added FAMOUS Restaurant|
