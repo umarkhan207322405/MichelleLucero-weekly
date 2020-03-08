@@ -48,4 +48,4 @@ following the same syntax.
 | 6 | [Added a Pharmacy](https://www.openstreetmap.org/changeset/81914641#map=19/40.59041/-73.97335) | OSM Edit | Added Smart Choice Pharmacy |
 | 6 | [Added a Bagel Shop](https://www.openstreetmap.org/changeset/81914653#map=19/40.59040/-73.97342) | OSM Edit | Added bagel & beyond |
 | 6 | [Added a Chinese Restaurant](https://www.openstreetmap.org/user/pomoya/history#map=15/40.6002/-73.9871) | OSM Edit | Added FAMOUS Restaurant|
-| 6 | []() | Blog Edit ||
+| 6 | [Corrected misspelling](https://github.com/hunter-college-ossd-spr-2020/umarkhan207322405-weekly/pull/1) | Blog Edit | Fixed minor spelling mistake|
