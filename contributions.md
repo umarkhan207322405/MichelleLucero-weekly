@@ -50,4 +50,4 @@ following the same syntax.
 | 6 | [Added a Chinese Restaurant](https://www.openstreetmap.org/user/pomoya/history#map=15/40.6002/-73.9871) | OSM Edit | Added FAMOUS Restaurant|
 | 6 | [Corrected Misspelling](https://github.com/hunter-college-ossd-spr-2020/umarkhan207322405-weekly/pull/1) | Blog Edit | Fixed minor spelling mistake|
 | 7 | [Added Playground Details](https://www.openstreetmap.org/changeset/82231897)| OSM Edit| Added play sets description to a playground|
-| 7 | [Word Choice Suggestions](https://github.com/hunter-college-ossd-spr-2020/MaiteFlores-weekly/pull/1)| Blog Edit | Suggest a word choice to make the sentence more fluid |
+| 7 | [Word Choice Suggestion](https://github.com/hunter-college-ossd-spr-2020/MaiteFlores-weekly/pull/1)| Blog Edit | Suggest a word choice to make the sentence more fluid |
