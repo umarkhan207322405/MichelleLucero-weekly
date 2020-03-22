@@ -51,5 +51,5 @@ following the same syntax.
 | 6 | [Corrected Misspelling](https://github.com/hunter-college-ossd-spr-2020/umarkhan207322405-weekly/pull/1) | Blog Edit | Fixed minor spelling mistake|
 | 7 | [Added Playground Details](https://www.openstreetmap.org/changeset/82231897)| OSM Edit| Added play sets description to a playground|
 | 7 | [Word Choice Suggestion](https://github.com/hunter-college-ossd-spr-2020/MaiteFlores-weekly/pull/1)| Blog Edit | Suggest a word choice to make the sentence more fluid |
-| 8 | [Word Choice Suggestion and Rephrasal Suggestion](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/pull/8)| Blog Edit | Suggested word choice, fixing plural agreement, and present tense correction.|
+| 8 | [Word Choice Suggestion and Rephrasal Suggestion](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/pull/8)| Blog Edit | Suggested word choice, fixing plural agreement, and present tense correction|
 | 8 | [Suggested a Rephrase](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/pull/10)| Blog Edit | Suggested a rephrase, corrected a plural aggreement and provided alternative phrases|
