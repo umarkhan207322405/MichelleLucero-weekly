@@ -54,3 +54,4 @@ following the same syntax.
 | 8 | [Word Choice Suggestion and Rephrasal Suggestion](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/pull/8)| Blog Edit | Suggested word choice, fixing plural agreement, and present tense correction|
 | 8 | [Suggested a Rephrase](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/pull/10)| Blog Edit | Suggested a rephrase, corrected a plural aggreement and provided alternative phrases|
 | 8 | [Added a Medical Center](https://www.openstreetmap.org/changeset/82493580)| OSM Edit | Fixed the outline of the Medical Center and added the Medical Center itself |
+| 8 | [Added a picture](https://en.wikipedia.org/wiki/Mariscal_Sucre_International_Airport)| Wikipedia Edit | I added a photo I took outside of Mariscal Sucre International Airport|
