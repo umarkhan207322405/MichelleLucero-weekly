@@ -55,4 +55,4 @@ following the same syntax.
 | 8 | [Suggested a Rephrase](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/pull/10)| Blog Edit | Suggested a rephrase, corrected a plural aggreement and provided alternative phrases|
 | 8 | [Added a Medical Center](https://www.openstreetmap.org/changeset/82493580)| OSM Edit | Fixed the outline of the Medical Center and added the Medical Center itself |
 | 8 | [Added a picture](https://en.wikipedia.org/wiki/Mariscal_Sucre_International_Airport)| Wikipedia Edit | I added a photo I took outside of Mariscal Sucre International Airport|
-| 8 | [Added a picture](https://en.wikipedia.org/wiki/Salinas,_Ecuador)| Added a photo I took of at La Chocolatera, which is located at Salinas, Ecuador ||
+| 8 | [Added a picture](https://en.wikipedia.org/wiki/Salinas,_Ecuador)| Wikipedia Edit |Added a photo I took of at La Chocolatera, which is located at Salinas, Ecuador |
